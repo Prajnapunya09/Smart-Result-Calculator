@@ -21,7 +21,7 @@ This project allows users to input student details, calculate grades, and mainta
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️  Technologies Used
 
 - **HTML5** – Structure  
 - **Bootstrap 5** – Styling & layout  
