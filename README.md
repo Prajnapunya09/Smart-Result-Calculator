@@ -25,7 +25,7 @@ This project allows users to input student details, calculate grades, and mainta
 
 - **HTML5** – Structure  
 - **Bootstrap 5** – Styling & layout  
-- **JavaScript (ES6)** – Logic & interactivity  
+- **JavaScript** – Logic & interactivity  
 
 ---
 
