@@ -42,6 +42,6 @@ student-result-management/ │── index.html       # Main HTML file with Boot
 ![Output Screenshot](https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator%20output.jpg)
 
 ### Demo Video
-[![Output Video](https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator(output%20video).mp4)](https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator(output%20video).mp4)
+[![Output Video] (https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator(output%20video).mp4)](https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator(output%20video).mp4)
 
 Click the video to watch the demo.
