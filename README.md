@@ -5,7 +5,7 @@ This project allows users to input student details, calculate grades, and mainta
 
 ---
 
-## 🚀 Features
+## 🚀  Features
 
 - ✅ Input *student name* and *marks* (out of 100)  
 - ✅ Automatic *grade calculation*:
