@@ -1,4 +1,4 @@
-# 🎓 Student Result Management System
+#  🎓 Student Result Management System
 
 A simple web-based application built using *HTML, CSS (Bootstrap), and **JavaScript* to manage and display student results.  
 This project allows users to input student details, calculate grades, and maintain a history of results in a tabular format.
