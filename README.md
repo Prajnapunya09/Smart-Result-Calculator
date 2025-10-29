@@ -48,4 +48,4 @@ student-result-management/ │── index.html       # Main HTML file with Boot
   <img src="https://github.com/Prajnapunya09/Smart-Result-Calculator/blob/main/Smart%20result%20calculator%20output.jpg" width="500">
 </a>
 
-> 🎦 *Click the image above to watch the demo video.*
+>  🎦 *Click the image above to watch the demo video.*
