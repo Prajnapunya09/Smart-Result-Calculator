@@ -33,7 +33,7 @@ This project allows users to input student details, calculate grades, and mainta
 student-result-management/ 
 │── index.html       # Main HTML file with Bootstrap & JS logic 
 │── script.js        # JavaScript logic 
-                           │── README.md        # Project documentation
+│── README.md        # Project documentation
 
 ---
 
