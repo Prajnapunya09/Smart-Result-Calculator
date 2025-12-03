@@ -14,7 +14,7 @@ This project allows users to input student details, calculate grades, and mainta
   - B  : 60 – 74  
   - C  : 45 – 59  
   - Fail : below 45  
-- ✅ Pass/Fail status shown with ✅ ❌ icons  
+- ✅ Pass/Fail status shown with ✅  ❌ icons  
 - ✅ Displays *result instantly* in a card view  
 - ✅ Maintains a *result history table* with all entered records  
 - ✅ Reset option to clear form fields  
